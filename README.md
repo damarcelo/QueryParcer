@@ -1,1 +1,1 @@
-# Query Parcer Project QPP
+# Query Parcer Project (QPP)
